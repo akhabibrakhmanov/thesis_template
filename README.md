@@ -1,1 +1,1 @@
-# unilu_phd_thesis_template
+# PhD Thesis Template (University of Luxembourg)
